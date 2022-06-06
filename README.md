@@ -5,3 +5,5 @@ In this project, we chose to analyze world cup games. Using BI tools, we examine
 You can find the dataset here: https://www.kaggle.com/datasets/abecklas/fifa-world-cup.
 
 Enjoy! 
+
+nitzan edit 1
